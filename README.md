@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0134-gas-station) |
+| [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0986-interval-list-intersections](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
