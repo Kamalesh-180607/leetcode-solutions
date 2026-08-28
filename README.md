@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0986-interval-list-intersections](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 ## Greedy
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 <!---LeetCode Topics End-->
