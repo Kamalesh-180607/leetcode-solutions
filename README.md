@@ -24,14 +24,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0986-interval-list-intersections](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0134-gas-station) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Quicksort
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Math
 |  |
 | ------- |
