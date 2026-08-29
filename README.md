@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -13,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
