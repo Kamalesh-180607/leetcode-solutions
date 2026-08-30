@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0436-find-right-interval](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [0523-continuous-subarray-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0436-find-right-interval](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Quicksort
 |  |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0436-find-right-interval](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0436-find-right-interval) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
