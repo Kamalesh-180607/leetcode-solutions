@@ -1,0 +1,12 @@
+class Solution {
+public:
+    bool stoneGame(vector<int>& piles) {
+        return true;
+        
+        //YOU CAN SOLVE THIS USING INTERVAL D
+        //TACKING EITEHR LEFT OR RIGHT
+        //GET THE MAXIMUM AMONG THEM
+        //IF YOU TAKE LEFT THEN CALL THE SOLVE FUNCTION BY
+        //PILES[L]-SOLVE(L+1,R,PILES,DP) //WHY YOU ARE SUBTRACTING IS DIFFERENCE BETWEEN YOU AND YOUR OPPONENT (HOW MUCH YOU BETTER THAN YOUR OPPONENT)
+    }
+};
