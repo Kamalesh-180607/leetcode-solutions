@@ -19,17 +19,22 @@ public:
             if(nums1[i]%2==0 && !isOdd)
             {
                 odd=false;
-                break;
+                //break;
             }
-        }
-        for(int i=0;i<nums1.size();i++)
-        {
-            if(nums1[i]%2==1 && ! isEven)
+            if(nums1[i]%2==1 && !isEven)
             {
                 even=false;
-                break;
+                //break;
             }
         }
+        // for(int i=0;i<nums1.size();i++)
+        // {
+        //     if(nums1[i]%2==1 && ! isEven)
+        //     {
+        //         even=false;
+        //         break;
+        //     }
+        // }
         return odd |even;
     }
 };
