@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Dynamic Programming
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Math
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
 |  |
@@ -127,12 +131,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
