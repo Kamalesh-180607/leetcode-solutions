@@ -21,7 +21,7 @@ public:
                 high=mid-1;
             }
         }
-        return low;
+        return ans;
         /* //TIME LIMIT EXCEEDED
         int i=1;
         while(true)
