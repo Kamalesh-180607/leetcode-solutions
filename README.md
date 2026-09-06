@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0740-delete-and-earn](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0877-stone-game) |
