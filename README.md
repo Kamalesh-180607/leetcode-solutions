@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3870-count-commas-in-range](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0939-minimum-area-rectangle](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
