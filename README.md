@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0741-cherry-pickup](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Minimax
 |  |
