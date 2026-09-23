@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Array
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
