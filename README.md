@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+## Counting
+|  |
+| ------- |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 <!---LeetCode Topics End-->
