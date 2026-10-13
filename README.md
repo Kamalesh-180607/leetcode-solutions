@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2591-distribute-money-to-maximum-children) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
