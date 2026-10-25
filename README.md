@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1140-stone-game-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0741-cherry-pickup](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
