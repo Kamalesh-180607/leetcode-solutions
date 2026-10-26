@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimax
 |  |
 | ------- |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kamalesh-180607/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
